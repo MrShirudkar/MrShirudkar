@@ -12,7 +12,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,vscode,androidstudio,dotnet,aws,mysql,linux,fastapi,anaconda,postman,qt&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda,vscode,pycharm,fastapi,qt,dotnet,aws,mysql,linux,postman&theme=dark" />
   </a>
  
 </div>
@@ -48,18 +48,3 @@
 </div>
 
 ###
-
-
-
-
-
-
- 
-
-
-
-
-
-
-  
- 
